@@ -1,0 +1,32 @@
+.counter{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+    height: 25vh;
+    width: 25vh;
+    border-radius: 50%;
+}
+.increase_counter{
+    background: none;
+    border:none;
+}
+.container{
+    height: 40vh;
+    width: 40vh;
+    background-color: lightgray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 40%;
+    border-radius: 20px;
+    margin-top:10%;
+    
+}
+.btn_color_change{
+    margin:1em;
+    padding:1em;
+    border-radius: 10px;
+}
+
+
